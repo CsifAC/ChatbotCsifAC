@@ -3,7 +3,7 @@ import openai
 import os
 
 # Configurar API Key de OpenAI
-openai.api_key="proj_eXtfJ9jcqLRHHaUR2jaI9vNt"
+openai.api_key=proj_eXtfJ9jcqLRHHaUR2jaI9vNt
 
 st.title("📜 Asistente de Convenios Colectivos")
 st.write("Ingresa tu pregunta sobre el convenio y el asistente te responderá.")
